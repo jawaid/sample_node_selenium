@@ -1,6 +1,6 @@
 ## Selenium tests with Node.JS! [![Build Status](https://api.shippable.com/projects/53767cfd2121b37201a1e01f/badge/master)](https://www.shippable.com/projects/53767cfd2121b37201a1e01f)
 
-Basic "Hello World" example of Selenium browser tests that run on [Shippable.com](shippable.com). Uses the `nightwatch` `npm` module and Node.JS.
+Basic "Hello World" example of Selenium browser tests that run on [Shippable.com](shippable.com). Uses the `nightwatch` `npm` module and Node.JS. 
 
 ### How to run selenium tests locally?
 
